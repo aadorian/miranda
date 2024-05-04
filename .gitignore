@@ -1,0 +1,6 @@
+.host
+fdate
+*.o
+mira
+miralib/*
+miralib/preludx/*
